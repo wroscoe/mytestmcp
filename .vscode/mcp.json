@@ -1,0 +1,7 @@
+{
+    "servers": {
+        "my-mcp-server-f1e49374": {
+            "url": "http://127.0.0.1:8000/mcp/"
+        }
+    }
+}
